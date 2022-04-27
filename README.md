@@ -1,8 +1,6 @@
 # nc-portfolio-be
 
-Our backend api is hosted on heroku at:
-
-https://nc-portfolio-app.herokuapp.com/
+Our backend api is hosted on heroku at: https://nc-portfolio-app.herokuapp.com/
 
 A demo video of the app can be seen in the following link: https://northcoders.com/projects/april-2022/northcoders-portfolio
 
